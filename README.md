@@ -10,11 +10,11 @@ The goal of this project is to solve this problem by building a machine learning
 ## Solution
 A complete end-to-end ML pipeline was built including data preprocessing, feature scaling, model training, evaluation, and deployment. Three classification models were trained and compared:
 
-| Model               | Accuracy | F1    | ROC-AUC |
-|---------------------|----------|-------|---------|
-| Logistic Regression | ~90%     | ~92%  | ~0.90   |
-| KNN                 | xx%      | xx%   | x.xx    |
-| Random Forest       | xx%      | xx%   | x.xx    |
+| Model               | Accuracy |  Precision   | ROC-AUC |
+|---------------------|----------|--------------|---------|
+| Logistic Regression | ~90%     |  92%         | ~0.90   |
+| KNN                 | 91%      |  94 %        |  91
+| Random Forest       | 97%      |  97%         | 97
 
 Logistic Regression was selected as the final model due to its high interpretability, stable cross-validation performance, and strong generalization on unseen data.
 
