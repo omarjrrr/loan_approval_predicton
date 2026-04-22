@@ -121,8 +121,7 @@ Enable data-driven decision-making
 The trained model was saved using joblib and deployed using Streamlit Cloud, providing an interactive web interface for real-time loan approval predictions.
 
 🔗 Live Demo:
-👉 https://loanapprovalpredicton-ftawrcg42878hrqz6dq3za.streamlit.app/
-
+https://loanapprovalpredicton-ly3ytnr8vxk2bjwwgeeyr9.streamlit.app/
 ├── data/
 ├── notebooks/
 ├── models/
